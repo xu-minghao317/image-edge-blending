@@ -20,5 +20,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [[35807:PBL, Ritsumeikan University](https://github.com/xu-minghao317).<br />
+Copyright © 2022 [35807:PBL, Ritsumeikan University].<br />
 This project is MIT License licensed.
