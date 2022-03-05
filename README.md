@@ -10,7 +10,7 @@
 
 ## Author
 
-👤 ** 35807:PBL, Ritsumeikan University**
+👤 35807:PBL, Ritsumeikan University
 
 * Github: [@xu-minghao317](https://github.com/xu-minghao317)
 
@@ -21,4 +21,3 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 This project is MIT License licensed.
-Copyright © 2022 [35807:PBL, Ritsumeikan University].<br />
