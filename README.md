@@ -10,8 +10,7 @@
 
 ## Author
 
-👤 Xu Minghao (Ming-Hao Xu) 
-* Github: [@xu-minghao317](https://github.com/xu-minghao317)
+👤 Xu Minghao [@xu-minghao317](https://github.com/xu-minghao317)
 
 ## Show your support
 
