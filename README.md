@@ -7,7 +7,15 @@
 </p>
 
 > An image edge-blending python script.  
-> Perform image processing to eliminate color distortion and optical crack in the joint area. Doxygen-styled.
+> Perform minimal image processing to eliminate color distortion and optical crack in the joint area. Doxygen-styled.
+
+### Example
+
+- Before image edge-blending
+![before](doxygen/before_edge_blending.jpg)
+
+- After image edge-blending
+![after](doxygen/after_edge_blending.jpg)
 
 ## Author
 

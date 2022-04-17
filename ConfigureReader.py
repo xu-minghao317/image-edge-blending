@@ -4,8 +4,6 @@ from configparser import ConfigParser
 # @brief
 #
 # This class reads initial values that will be needed to process the edge-blending.
-# This class is made by Son and Minghao, Doxygened by Konatsu.
-#
 
 
 class ConfigureReader(object):

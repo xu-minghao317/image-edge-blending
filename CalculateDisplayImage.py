@@ -10,8 +10,6 @@ IR = ImageReader()
 # @brief
 #
 # This class calculates blended image.
-# This class is made by Minghao, Shiva, Son, and Vaibhav, Doxygened by Rikuto Momoi.
-#
 
 
 class CalculateDisplayImage(object):

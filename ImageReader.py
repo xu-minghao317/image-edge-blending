@@ -8,8 +8,6 @@ CR = ConfigureReader()
 # @brief
 #
 # This class reads images and normalize them into numpy array tuple.
-# This class is made by Shiva, Doxygened by Rikuto Momoi
-#
 
 
 class ImageReader(object):

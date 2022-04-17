@@ -7,8 +7,6 @@ CDI = CalculateDisplayImage()
 # @brief
 #
 # This class displays blended images.
-# This class is made by Vaibhav, Doxygened by Xu Minghao.
-#
 
 
 class MainDisplay(object):
